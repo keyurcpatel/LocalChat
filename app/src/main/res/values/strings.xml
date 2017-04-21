@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Local Chat</string>
+    <string name="send">Send</string>
+    <string name="attach">Attach</string>
+    <string name="record">Record</string>
+    <string name="play">Play</string>
+    <string name="refresh_list">Refresh List</string>
+</resources>
